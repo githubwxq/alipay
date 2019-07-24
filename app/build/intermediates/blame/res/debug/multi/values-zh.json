@@ -1,0 +1,501 @@
+[
+    {
+        "outputFile": "E:\\alipay_demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1425,
+                        "endColumn": 61,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 49,
+                    "endOffset": 162
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 167,
+                    "endColumn": 45,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 752,
+                        "endColumn": 45,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 46,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 46,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 55,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 55,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 56,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 56,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 38,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 38,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 216,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 216,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 36,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1623,
+                        "endColumn": 36,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 130,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 130,
+                        "endOffset": 1420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 107,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 107,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endColumn": 136,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 137,
+                        "endOffset": 1850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 96,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 96,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 128,
+                    "endOffset": 1263
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 128,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1268,
+                    "endColumn": 56,
+                    "endOffset": 1320
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1660,
+                        "endColumn": 56,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1325,
+                    "endColumn": 44,
+                    "endOffset": 1365
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endColumn": 44,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1370,
+                    "endColumn": 44,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 44,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1415,
+                    "endColumn": 45,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 45,
+                        "endOffset": 655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 54,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 54,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endColumn": 60,
+                    "endOffset": 1572
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 60,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1577,
+                    "endColumn": 51,
+                    "endOffset": 1624
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1907,
+                        "endColumn": 51,
+                        "endOffset": 1954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1629,
+                    "endColumn": 51,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1855,
+                        "endColumn": 51,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 70,
+                    "endOffset": 1747
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 70,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1752,
+                    "endColumn": 66,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 66,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endColumn": 75,
+                    "endOffset": 1890
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 75,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1895,
+                    "endColumn": 62,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "E:\\alipay_demo\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 62,
+                        "endOffset": 552
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:10:5-76
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:10:22-73
+supports-screens
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:13:5-18:39
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:18:9-36
+	android:normalScreens
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:16:9-37
+	android:resizeable
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:17:9-34
+	android:anyDensity
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:14:9-34
+application
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:20:5-41:19
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:24:5-57:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\cf362639aa49597a399a5beff530992754b2a146\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\bfcc0d97c65bec974acb6f37b838e5f8caa0e2fa\output\AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:23:9-41
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\cf362639aa49597a399a5beff530992754b2a146\output\AndroidManifest.xml:22:18-91
+	android:allowBackup
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:21:9-35
+	android:networkSecurityConfig
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:22:9-69
+	android:theme
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.alipay.sdk.pay.demo.PayDemoActivity
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:28:13-45
+	android:icon
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:27:13-46
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:26:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.alipay.sdk.pay.demo.H5PayDemoActivity
+ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:screenOrientation
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:39:13-47
+	android:exported
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from E:\alipay_demo\app\src\main\AndroidManifest.xml:36:13-69
+uses-sdk
+INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\48cfb4092f7ca6ccd98236e35189bba06d90efe5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\1c8ba5e53b9cba8b3a69005b52fc915ea511f788\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\38391797d1f05301608748df33fadec77fbb57ca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\60dd03b7c1a09bb7eeabfb37c9e8e97f37e0cc98\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\c5de7085bf4397fe043e0c59ebb543d1aa0a1e77\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\4925d1ba73401f8c1d99eda0c4990738216ad701\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\5e45b6a4f857cece6861799ee04ea397ef7343e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\649485ffe2f97f09f8004250e7af41ff3ebfa905\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\ab16177f7bba52594ee017e9a7eec00e9e51b6ca\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\b362018c83bf6f9abc299ab1543f839479ccd493\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\develop_soft\androidsdk\.android\build-cache\d515cbbcb048c6c885bfe937aa41232383e4a1e6\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\develop_soft\androidsdk\.android\build-cache\d6ea088230319b662de84dc637017b35c0b85675\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\develop_soft\androidsdk\.android\build-cache\1ae2ae0fbb95a276579f30a970f9e417ec3b8513\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\develop_soft\androidsdk\.android\build-cache\ac2b030e87dc07ffe9bfe97cffe530e7f495e95a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\ff632fb402235fda2f312571bfb274db30c183e6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\0a9fc0d1e75a4c71b6b5e4ef15f5a99ecb1d904a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\35b490fe4735c946f06dcb93ccf4ead48f24b4f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\b18478ea3df71059b66e6796925a8ff4a9e41308\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\795ab41d7234fe5f4d8cde3f0816de46676836bb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\531dc8f5e8bcf10de9d57674022188c35ad50004\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\91f6b4fe8eb9b143161d467530ac5757e7dde428\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\1549e3ebddec91926d038a4b2077b09b2edf0bb5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\3b9417250242c5e1df8ce149f6d31b765632636a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\e510c0787987cd2de2e13cbcfce3f44935a25e25\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\cf362639aa49597a399a5beff530992754b2a146\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\develop_soft\androidsdk\.android\build-cache\288657ee8db73fd407dd18e028637118df10d98a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\bfcc0d97c65bec974acb6f37b838e5f8caa0e2fa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\develop_soft\androidsdk\.android\build-cache\f3eadf7f1657e3e71358cf9955ae0e3c16288951\output\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\alipay_demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:22:22-78
+uses-library#org.apache.http.legacy
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:26:13-50
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:33:13-47
+	android:exported
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:30:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:35:9-40:20
+	android:screenOrientation
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:39:13-47
+	android:exported
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:36:13-61
+activity#com.alipay.sdk.app.PayResultActivity
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:41:9-50:20
+	android:launchMode
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:45:13-48
+	android:exported
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:44:13-36
+	android:configChanges
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:43:13-74
+	android:theme
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:42:13-64
+intent-filter#android.intent.category.DEFAULT
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:47:13-49:29
+category#android.intent.category.DEFAULT
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:48:27-73
+activity#com.alipay.sdk.app.AlipayResultActivity
+ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:51:9-56:20
+	android:launchMode
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:54:13-44
+	android:exported
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:55:13-72
+	android:name
+		ADDED from [:alipaySdk-15.6.4-20190611174341:] D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\AndroidManifest.xml:52:13-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\alipay_demo\app\src\main\AndroidManifest.xml:2:1-43:12 reason: com.alipay.sdk requested WRITE_EXTERNAL_STORAGE

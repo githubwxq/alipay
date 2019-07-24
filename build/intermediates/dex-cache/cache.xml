@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\531dc8f5e8bcf10de9d57674022188c35ad50004\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_69fc063d4d4f025a89e101e7d7fcad46d27038cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\0a9fc0d1e75a4c71b6b5e4ef15f5a99ecb1d904a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_aa2ad44d18f1bc657e78ca0ea40096dd0c8c97df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\91f6b4fe8eb9b143161d467530ac5757e7dde428\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_a36627a9170285c01b821be4b5a5d420ffd4f16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\bfcc0d97c65bec974acb6f37b838e5f8caa0e2fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_ab8a68209e4ab5c888bf6689e2f00a954260e0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\1549e3ebddec91926d038a4b2077b09b2edf0bb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_31773d201cd3c080a9f11367aa16b0ef97e8f306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\795ab41d7234fe5f4d8cde3f0816de46676836bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_469a8f5e1b200858721cf0b7fcea845fb6fce2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\ac2b030e87dc07ffe9bfe97cffe530e7f495e95a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_fa13f5b9fe4269c02c4889e64d7760590ed3a7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\b18478ea3df71059b66e6796925a8ff4a9e41308\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_58bbe25036327e24e495415605487f2b4be08f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\d6ea088230319b662de84dc637017b35c0b85675\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_465f6cc97adae2a04ee6396d9c81e233b86c9ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wxq\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\common-1.1.1_0c1321d9ac0d7cca6c475491a3ee54184ba54ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\35b490fe4735c946f06dcb93ccf4ead48f24b4f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_a26ebd6d950cd6e4c9f3d77354627af9f5af1de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\a891947eb0163c391a0eaa4e85b6ed0eec9d8ed8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5787d0a860511f5e8da85a589073da014abc8cf9">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_e499b0329b203240335572f516dc96e96a7d0df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\288657ee8db73fd407dd18e028637118df10d98a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_2129462cb188557708078e981397262c3004b156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\5e45b6a4f857cece6861799ee04ea397ef7343e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_9885c9c1fd8b0f19e80e43efa0320cafc70abe06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\cf362639aa49597a399a5beff530992754b2a146\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_e09fd40bb1a75c2658f321ce20738400de20d5c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wxq\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\support-annotations-28.0.0_4f30eb00dd94125c809bdecaa144948d98ba7260.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\4925d1ba73401f8c1d99eda0c4990738216ad701\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_20f0a8ea49713252eced2960d0a6ec6885fd0752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wxq\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\collections-28.0.0_ff16944e07cbd94dda7cb82c1a59786e81e5b49f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\1ae2ae0fbb95a276579f30a970f9e417ec3b8513\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_c09287c713dcf5bfd955d974235f2fdb5a19e063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\b362018c83bf6f9abc299ab1543f839479ccd493\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_81f89b70aa4a1a399f19ce1367d9e711350beab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\1c8ba5e53b9cba8b3a69005b52fc915ea511f788\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ada02cfa6d6403e90138de411c67d8f6763b3018">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_1a9dfc6c004f9c59a883b767d2553713ecbb9806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\ab16177f7bba52594ee017e9a7eec00e9e51b6ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_2dd5e4ca19bb171312a7897b6130c61a9be76b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\ff632fb402235fda2f312571bfb274db30c183e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_56fb9328105a2db92181dd02aaf0cc0266d4cebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\38391797d1f05301608748df33fadec77fbb57ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_8183f27eae22a8646641fae6b67e7642e952742d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\c5de7085bf4397fe043e0c59ebb543d1aa0a1e77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_bc40235a94c4ad27f41b9216561bc46f21bb89e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\e510c0787987cd2de2e13cbcfce3f44935a25e25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_bb426d81ca288f4084d23f839019f5d2e22e1ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\3b9417250242c5e1df8ce149f6d31b765632636a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_ff6ef771ad4a36e102b8dd0a46eca3c038e368ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\d515cbbcb048c6c885bfe937aa41232383e4a1e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_83b604c1b75aa9c5b22cfc4a1cfc6c5c4a1c4f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\60dd03b7c1a09bb7eeabfb37c9e8e97f37e0cc98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_18519e89edc79df3c13b2d18414b42a1e9e41553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\f3eadf7f1657e3e71358cf9955ae0e3c16288951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_a01f8e243af6f1c146ae97f8fb4fa87cde164438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wxq\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\common-1.1.1_e9a77974dab667e13ac42bf5c3270de8e5f4dd0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\develop_soft\androidsdk\.android\build-cache\649485ffe2f97f09f8004250e7af41ff3ebfa905\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="E:\alipay_demo\app\build\intermediates\pre-dexed\release\classes_dbf12a063c7540cf3ac39555252169d62ac6d0ae.jar" />
+    </item>
+
+</items>

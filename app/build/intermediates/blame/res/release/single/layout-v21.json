@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\alipay_demo\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\develop_soft\\androidsdk\\.android\\build-cache\\cf362639aa49597a399a5beff530992754b2a146\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\alipay_demo\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\develop_soft\\androidsdk\\.android\\build-cache\\cf362639aa49597a399a5beff530992754b2a146\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\alipay_demo\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\develop_soft\\androidsdk\\.android\\build-cache\\cf362639aa49597a399a5beff530992754b2a146\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\alipay_demo\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "D:\\develop_soft\\androidsdk\\.android\\build-cache\\cf362639aa49597a399a5beff530992754b2a146\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
